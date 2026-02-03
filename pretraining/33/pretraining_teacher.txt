@@ -1,0 +1,3 @@
+Download pre-training teacher weights here.
+
+teacher_state.pth
