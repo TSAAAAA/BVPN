@@ -1,5 +1,5 @@
 # Biomimetic Visual Perception Network for Industrial Image Anomaly Detection
-**IEEE Transactions on Automation Science and Engineering (T-ASE)**
+**IEEE Transactions on Automation Science and Engineering (T-ASE)**https://github.com/TSAAAAA/BVPN/blob/main/README.md
 
 **For Double-Anonymous Peer Review in IEEE T-ASE**
 
@@ -46,7 +46,7 @@ Example results are as follows:
 
 
 
-**Run FeatUP/seg_image.py for unsupervised semantic segmentation**
+**Run FeatUP/seg_image.py for unsupervised semantic segmentation**  
 If you want to perform semantic segmentation, you can run seg_image.py.
 Example results are as follows:
 ![](figures/seg_image.png)
