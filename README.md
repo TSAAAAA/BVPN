@@ -1,5 +1,5 @@
 # Biomimetic Visual Perception Network for Industrial Image Anomaly Detection
-**IEEE Transactions on Automation Science and Engineering (T-ASE)**https://github.com/TSAAAAA/BVPN/blob/main/README.md
+**IEEE Transactions on Automation Science and Engineering (T-ASE)**
 
 **For Double-Anonymous Peer Review in IEEE T-ASE**
 
