@@ -36,7 +36,7 @@ path to mvtec
                 ├── 000.png
 ```
 ## Download pretrained teacher weights
-We provide pretrained teacher weights.(https://drive.google.com/file/d/1ajfUwJO2QU7QRpHhdGMCkT-hOOsIiw6s/view?usp=drive_link) 
+We provide [pretrained teacher weights](https://drive.google.com/file/d/1ajfUwJO2QU7QRpHhdGMCkT-hOOsIiw6s/view?usp=drive_link).   
 Download it to ./pretraining/33/.
 
 ## Run
